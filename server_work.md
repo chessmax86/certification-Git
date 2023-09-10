@@ -228,4 +228,12 @@ _Тоже курсив_
 
 * [Шафигулин Ильнар](https://github.com/ilnar-geekbrains/version_control_lection_3) 
 
+
+
+<img src="https://gbcdn.mrgcdn.ru/uploads/post/2702/og_image/25e3889059a0d9d8984be1775c0f492d.jpeg" width="250"> 
+
 * [Роман Тюрин](https://github.com/RomTurino/github_instructions)
+
+    ![Turin](https://gbcdn.mrgcdn.ru/uploads/avatar/3673588/attachment/thumb-f3f782a61c134ab4b441959d16750479.png) 
+
+ 
