@@ -218,3 +218,14 @@ _Тоже курсив_
 \*\*нет жирного выделения\*\*
 
 \#Нет заголовка\#
+
+# Инструкция удаленного gitHuba
+
+
+Переходим на сайт: [GitHub.com](https://github.com/dashboard)
+
+Ниже ссылки на преподавателей:
+
+* [Шафигулин Ильнар](https://github.com/ilnar-geekbrains/version_control_lection_3) 
+
+* [Роман Тюрин](https://github.com/RomTurino/github_instructions)
