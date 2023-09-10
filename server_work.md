@@ -221,21 +221,17 @@ _Тоже курсив_
 
 # Инструкция удаленного GitHuba
 
-
 Переходим на сайт: [GitHub.com](https://github.com/dashboard)
 
 Ниже ссылки на преподавателей:
 
 * [Шафигуллин Ильнар](https://github.com/ilnar-geekbrains/version_control_lection_3) 
 
-
-
 <img src="https://gbcdn.mrgcdn.ru/uploads/post/2702/og_image/25e3889059a0d9d8984be1775c0f492d.jpeg" width="250"> 
 
 * [Роман Тюрин](https://github.com/RomTurino/github_instructions)
 
     ![Turin](https://gbcdn.mrgcdn.ru/uploads/avatar/3673588/attachment/thumb-f3f782a61c134ab4b441959d16750479.png) 
-
  ---
  >### краткая инструкция
  >>1. Создали аккаунт на GitHub.com
@@ -244,7 +240,6 @@ _Тоже курсив_
  >>4. Отправить (**`git push`**) на локальный в удаленный  (на GitHub), при этом нам, возможно, надо будет авторизоваться на удаленном репозитории.
  >>5. Провести изменения "с другого компьютера".
  >>6. Выкачать (**`pull`**) актуальное состояние из удаленного репозитория.
-
 ---
 Подробнее:
 
